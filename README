@@ -1,3 +1,4 @@
+On rhel 7 change "[[ -f /usr/share/git/completion/git-prompt.sh ]] && source /usr/share/git-core/contrib/completion/git-prompt.sh;"
 git clone git://github.com/jonaz/jonaz-vim-rc.git .vimdir
 
 cd .vimdir
